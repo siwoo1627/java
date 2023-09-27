@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Gugudan {
 
 	public static void main(String[] args) {
-		// ±¸±¸´Ü ÀÔ·ÂÇÏ±â(¹Ýº¹¹® »ç¿ë)
+		// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ï±ï¿½(ï¿½Ýºï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½)22222
 		Scanner scanner = new Scanner(System.in);
-		System.out.print("¼ýÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+		System.out.print("ï¿½ï¿½ï¿½Ú¸ï¿½ ï¿½Ô·ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½: ");
 		int num = scanner.nextInt();
 		
 		for(int i=1; i<10; i++) {
